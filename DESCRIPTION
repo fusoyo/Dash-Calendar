@@ -1,0 +1,13 @@
+Package: dashCalendar
+Title: a calendar datepicker component for dash
+Version: 0.0.1
+Description: a calendar datepicker component for dash
+Depends: R (>= 3.0.2)
+Imports: 
+Suggests: 
+License: MIT + file LICENSE
+URL: https://github.com/csis/dash-calendar
+BugReports: https://github.com/csis/dash-calendar/issues
+Encoding: UTF-8
+LazyData: true
+KeepSource: true
